@@ -1,37 +1,44 @@
 # Travelora – Travel Explorer
 
-A modern React travel application that helps users explore worldwide destinations, view destination details, check weather, ask an AI travel assistant questions, and generate personalized day-by-day itineraries.
+A modern, responsive travel exploration website built with React and Vite. Travelora helps users explore destinations, view destination details, find famous places, use location services, and plan trips with AI.
 
 ## Features
 
-- Worldwide destination exploration
-- Destination details and famous places
-- User location detection
-- Manual location search
-- Real-time weather information
-- AI Travel Assistant using Gemini
-- AI-powered day-by-day itinerary planner
-- Hero background video
-- Responsive design for mobile, tablet and desktop
-- Loading, empty and error states
+- 🌍 Explore worldwide destinations
+- 📍 Location detection with manual location search
+- 🗺️ Destination detail pages
+- 🏛️ Famous places for each destination
+- 🌤️ Weather section
+- 🤖 AI Travel Assistant
+- 🗓️ AI Day-by-Day Itinerary Planner
+- 🎥 Full-screen travel hero video
+- 📱 Responsive design for mobile, tablet and desktop
+- ✨ Smooth animations and interactive UI
+- 🔎 Destination search and filtering
 
-## Technologies
+## Technologies Used
 
-- React
+- React.js
 - Vite
 - JavaScript
-- CSS
+- HTML5
+- CSS3
 - React Router
-- Gemini API
-- OpenWeather API
-- Unsplash
-- HTML5 Video
+- Git & GitHub
+- Vercel
 
-## APIs Used
+## APIs / Services
 
-- Gemini API – AI chatbot and itinerary generation
-- OpenWeather API – weather information
-- Unsplash – destination images
+- Gemini API – AI Travel Assistant and AI Itinerary Planner
+- Browser Geolocation API – User location detection
+- Unsplash – Destination imagery
+- Vercel – Deployment
+
+> Note: API keys are stored using environment variables and are not committed to GitHub.
+
+## AI Usage Disclosure
+
+AI tools were used during development for assistance with code suggestions, debugging, UI improvements, and content structuring. The final implementation was reviewed, modified, and tested by the developer.
 
 ## Run Locally
 
